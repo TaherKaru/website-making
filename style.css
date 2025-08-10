@@ -1,0 +1,21 @@
+body{font-family: sans-serif;}
+
+table
+{
+    color:#f5f5f5;
+    background-color:#002147;
+    font-family: Garamond;
+
+}
+
+.bottom, .top
+{
+    background-color: #004d4d;
+    color: #ccffeb;
+}
+
+h2,h3
+{
+   background-color: #004d4d;
+    color: #ccffeb; 
+}
